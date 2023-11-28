@@ -11,7 +11,8 @@ This program uses Recursion to perform the below operatins:
 7. Multiples: Compute and print the first m multiples of n given integers m and n
 8. Write Vertical: Print digits of a given integer vertically (one digit per line)
 9. Sum of Sqaures: Calculate and print the sum of sqaures of all digits 1 through n given an integer n
-10. **Towers Of Hanoi**: Return the number of moves required to solve Tower of Hanoi problem for a given number of discs.
+  
+10. ***Towers Of Hanoi***: Return the number of moves required to solve Tower of Hanoi problem for a given number of discs.
 
 ### Tower of Hanoi
 Towers of Hanoi is a classic mathematical puzzle that involves three rods and a number of disks of different sizes. The puzzle starts with the disks in a neat stack in ascending order of size on one rod, the smallest at the top. The objective is to move the entire stack to another rod, obeying the following simple rules:
